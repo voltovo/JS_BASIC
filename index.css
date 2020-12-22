@@ -28,3 +28,7 @@
     z-index: -1;
     animation: fadeIn 0.5s linear;
 }
+
+body{
+    font-family: fantasy;
+}
