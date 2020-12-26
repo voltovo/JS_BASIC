@@ -12,7 +12,7 @@ html {
 }
 
 html{
-    background:#dff9fb;
+    background:#333333;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -37,7 +37,7 @@ body {
     /* ease-in-out: 애니메이션 속도 지정 */
     animation: fadeIn 1s ease-in-out forwards;
     animation-delay: 0.5s;
-    color: white;
+    color: #dff9fb;
     display: flex;
     align-items: center;
     /* flex box :  서로 다른 크기의 화면과 기기에서 HTML 요소들이
@@ -54,3 +54,23 @@ body {
     color: white;
     border-bottom: 2px solid white;
   }
+
+  input::placeholder {
+    color: white;
+  }
+  
+  input:focus,
+  input:active {
+    outline: none;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  ul {
+    margin-top: 50px;
+  }
+  
