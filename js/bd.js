@@ -17,6 +17,7 @@ function getRandom(){
 function init(){
     const randomNumber = getRandom();
     paintImage(randomNumber);
+    return;
 };
 
 
