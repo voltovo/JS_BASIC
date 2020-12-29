@@ -5,3 +5,10 @@
 ## Features
 
 - [x] Clock
+- [x] To Do List
+- [x] Weather
+- [ ] Daily Quote
+- [ ] Daily Photo
+- [ ] Offline Support
+
+## Try It Out
